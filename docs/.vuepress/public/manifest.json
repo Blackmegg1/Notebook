@@ -1,0 +1,26 @@
+{
+    "name": "我的笔记本",
+    "short_name": "翻山",
+    "lang": "zh-CN",
+    "start_url": "/",
+    "display": "standalone",
+    "icons":[
+        {
+            "src":"/icons/android-chrome-192x192",
+            "size":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"/icons/android-chrome-512x512",
+            "size":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"/icons/apple-touch-icon",
+            "size":"180x180",
+            "type":"image/png"
+        }
+    ],
+    "background_color":"#fff",
+    "theme_color":"#3eaf7c"
+  }
