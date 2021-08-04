@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "6889b07694746e9160f6015a77c6066b"
+    "revision": "db9b4cba3868c7bba4c4285dc84abbb1"
   },
   {
     "url": "about.html",
-    "revision": "6c3773308545d11ab8c524ac5f647df2"
+    "revision": "d8ed6cd970fc468d2791d9cf99d10cbe"
   },
   {
     "url": "about1.html",
-    "revision": "9759b8b01fb9bf3a532748b809509895"
+    "revision": "11a7c39d61e11f7c56a63f4ebe207a7c"
   },
   {
     "url": "assets/css/0.styles.158ccfcd.css",
@@ -94,8 +94,8 @@ self.__precacheManifest = [
     "revision": "b5cab55ed88c410afc0722df45166655"
   },
   {
-    "url": "assets/js/app.a5f2df66.js",
-    "revision": "15bb7297fbe1f702fdcbbba55b1c2600"
+    "url": "assets/js/app.6b4e67e1.js",
+    "revision": "20575311fee4a67547669da0d1f52bc5"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -111,11 +111,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3795e875e407e4e36c2064ce8ddcf9dd"
+    "revision": "15ff5d47d2996012d83fe8ca80b2a297"
   },
   {
     "url": "lisao.html",
-    "revision": "64b67c3ddcce8d9f96cc0a9421e4d34c"
+    "revision": "918d09190a0e2b8f5e80655dedf8a424"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
