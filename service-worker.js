@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "eea53d78b1725e41a725accfe4cd79cd"
+    "revision": "10d90e29a97b55b18a4105364dea701b"
   },
   {
     "url": "about.html",
-    "revision": "bf4028e87855fae2b7b1502538ad0698"
+    "revision": "0ef170cd31e43c797fd1e5b0f8dffc27"
   },
   {
     "url": "about1.html",
-    "revision": "2f07c51a5d9f35336214e91a0d63daa7"
+    "revision": "89182dd4c249fa2fa0582c626f9b4a9a"
   },
   {
     "url": "assets/css/0.styles.158ccfcd.css",
@@ -50,19 +50,19 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.20a2bf37.js",
-    "revision": "1ea84a91641ef5b2246b15ea45169f22"
+    "url": "assets/js/10.0e9be619.js",
+    "revision": "8f0fa35d0338bd944de3ef519cd64e89"
   },
   {
-    "url": "assets/js/11.9c193617.js",
-    "revision": "6aa92bf260a7ac6218616b446dbf7da7"
+    "url": "assets/js/11.98b929a0.js",
+    "revision": "e54065eb6f26f1ecbdd8737303273f25"
   },
   {
     "url": "assets/js/12.fd0478d1.js",
     "revision": "b0fdaa1b1cea30e5fec7a231e1b423f8"
   },
   {
-    "url": "assets/js/2.389e6467.js",
+    "url": "assets/js/2.a2f19c92.js",
     "revision": "d18f7744883ab5dd128166aac88ace87"
   },
   {
@@ -90,12 +90,12 @@ self.__precacheManifest = [
     "revision": "d74fc25ca95c5bfac928687ea57abb65"
   },
   {
-    "url": "assets/js/9.23d7aac6.js",
-    "revision": "a1dc174884a241e9682c6d1e9bb91e3a"
+    "url": "assets/js/9.12930dca.js",
+    "revision": "b5cab55ed88c410afc0722df45166655"
   },
   {
-    "url": "assets/js/app.bce44e02.js",
-    "revision": "9411512aced96a805f3dda09d7600260"
+    "url": "assets/js/app.89adc90d.js",
+    "revision": "f3a5ecd0c60e6c43801ff684a07ecca8"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -111,11 +111,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "bcf7b74875f86cb17f0f8d6ec28799cb"
+    "revision": "0c252199fac26663174d202066e6a7ae"
   },
   {
     "url": "lisao.html",
-    "revision": "696f50231efde5ddc710d9b70e9a58a9"
+    "revision": "e14edb0b4f95cdf42629d160b9f450d9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
