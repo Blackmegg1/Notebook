@@ -21,5 +21,6 @@ module.exports = {
     '@vuepress/back-to-top': true,
     '@vuepress/google-analytics': {
         'ga': secret.ga
-    }
+    },
+    '@vuepress/medium-zoom':true
 }

@@ -4,7 +4,7 @@ heroImage: \icons\android-chrome-280x280.png
 tagline: null
 heroText: 我的云笔记本
 actionText: 查看目录 →
-actionLink: /zh/guide/
+actionLink: /guide/
 footer: MIT Licensed | Copyright © 2021-present Blackmegg1
 ---
 
