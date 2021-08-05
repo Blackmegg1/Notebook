@@ -1,4 +1,4 @@
 module.exports = [
-    { text: 'External', link: 'https://google.com', target: '_self', rel: '' },
-    { text: 'About', link: '/about', target: '_blank' }
+    { text: 'About', link: '/about', target: '_self' },
+    { text: 'Github', link: 'https://github.com/Blackmegg1/Notebook', target: '_blank'}
 ]

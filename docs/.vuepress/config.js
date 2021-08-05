@@ -8,7 +8,7 @@ module.exports = {
     head: headConf,
     plugins: pluginsConf,
     themeConfig: {
-        logo: '/assets/img/hero.png',
+        logo: '/icons/favicon-32x32.png',
         lastUpdated: '更新时间',
         nav: navConf,
         sidebar: sidebaronf
