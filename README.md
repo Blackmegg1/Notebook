@@ -1,16 +1,14 @@
 ![android-chrome-192x192](http://img.gxyhero.top/img/202108060131101.png)
 
+[![Build Status](https://travis-ci.com/Blackmegg1/Notebook.svg?branch=main)](https://travis-ci.com/Blackmegg1/Notebook)
 
-
-​                                                                                [![Build Status](https://travis-ci.com/Blackmegg1/Notebook.svg?branch=main)](https://travis-ci.com/Blackmegg1/Notebook)
-
-# [Notebook](notebook.gxyhero.top)
+# [Notebook](http://notebook.gxyhero.top)
 
 这是我个人的云笔记本，用于记录我的学习笔记。
 
 它的定位是：区别于博客或者个人网站，仅仅作为文字的载体，并不包含社交内容或其他任何项目。
 
-目前我正在将自己以前的笔记搬运到上面......:construction:
+目前我正在将自己以前的笔记搬运到上面...:construction:
 
 ## 搭建过程：
 

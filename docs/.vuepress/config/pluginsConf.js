@@ -22,5 +22,6 @@ module.exports = {
     '@vuepress/google-analytics': {
         'ga': secret.ga
     },
-    '@vuepress/medium-zoom':true
+    '@vuepress/medium-zoom':true,
+    'vuepress-plugin-auto-sidebar': true
 }
