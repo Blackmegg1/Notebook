@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "20a8b7dfc0f4d1ba6f7be0560d038798"
+    "revision": "2e78ab6152c93a3ca4ff642318f7c4b9"
   },
   {
     "url": "about/index.html",
-    "revision": "2d44d30f848d7ab17920b2c2b47b18eb"
+    "revision": "3c6f25cee25ce1abf90ac11520418f1b"
   },
   {
     "url": "assets/css/0.styles.c14b62c2.css",
@@ -54,8 +54,8 @@ self.__precacheManifest = [
     "revision": "9a3311386672356aadd648767fbe28cf"
   },
   {
-    "url": "assets/js/13.342296fc.js",
-    "revision": "78a26a787e0777177ad2dc3fc362ecab"
+    "url": "assets/js/13.5e7cb54c.js",
+    "revision": "ce83d6c866c298605a4240903feda6e6"
   },
   {
     "url": "assets/js/14.2e1ea3da.js",
@@ -146,72 +146,72 @@ self.__precacheManifest = [
     "revision": "2875c125d7d4ac0f055aa76e9cb83eaa"
   },
   {
-    "url": "assets/js/app.84909f66.js",
-    "revision": "50ac431e1659c36a49a67e9f9cec821d"
+    "url": "assets/js/app.91bca77a.js",
+    "revision": "78de0ccc005c0556e8fa9db82f1a9c5b"
   },
   {
     "url": "basic/algorithm/index.html",
-    "revision": "226aa26376560d34c4ee00c8cb1180e5"
+    "revision": "e844907f5744061bcd79044b84c83f59"
   },
   {
     "url": "basic/git/An annoying pitfall about Git.html",
-    "revision": "3088f0dd83d197f6f5c258d9843c5d2e"
+    "revision": "0969fe1e1deb2a8167564ce0a35dc7e0"
   },
   {
     "url": "basic/git/index.html",
-    "revision": "3f49ea9d80b7019675b0cddf64f7f580"
+    "revision": "753b97072a7aafc70e6e0841c0282c07"
   },
   {
     "url": "basic/network/index.html",
-    "revision": "0633b8253940f700661c4a063f5e251d"
+    "revision": "4385528d500f9921c4cd5a57c7ab611a"
   },
   {
     "url": "frontend/css/index.html",
-    "revision": "400609eb2fa04475d94e8679fa36df6c"
+    "revision": "b4cf405a7668c9417bbe209d45ba7176"
   },
   {
     "url": "frontend/css/P129-P161.html",
-    "revision": "e963dd55ab2d053409c44866c5b0eaa3"
+    "revision": "613ccb1162651219debdcba8c40951b7"
   },
   {
     "url": "frontend/css/P165-P188.html",
-    "revision": "a080eccfe5b3b18c1cb5957cc3091a67"
+    "revision": "6d9c507ba0a591af5a0b64c96dc3ea8f"
   },
   {
     "url": "frontend/css/P222-P250.html",
-    "revision": "ea787f1b292074914fb731428c7bb1ac"
+    "revision": "94347545b8a00d3efdbf9bf39a9f74e4"
   },
   {
     "url": "frontend/css/P275-.html",
-    "revision": "6da632921dbb8bbf55e3b5fc828c2606"
+    "revision": "e54b273d4d4572bad4075160cbaadd5b"
   },
   {
     "url": "frontend/html/index.html",
-    "revision": "4a7e3f9ab599a6e8692c324a6f6e9217"
+    "revision": "b4df758b9bf91e20436a93779855b6f7"
   },
   {
     "url": "frontend/js/'this'的指向.html",
-    "revision": "6686f884546a298dc3cb695f117d5b3c"
+    "revision": "9ae3447c00b1e7f25c28640c2ddfb447"
   },
   {
     "url": "frontend/js/index.html",
-    "revision": "1fbffe4bd76019e0a968adc135476670"
+    "revision": "6d7ed39e19ab63d7f51ba810601e37ca"
   },
   {
     "url": "frontend/js/JS习题册.html",
-    "revision": "49008d1ac31e435c485c798b06c702c8"
+    "revision": "25f2444f5458aa0f104534fad222e3c7"
   },
   {
     "url": "frontend/js/JS习题册答案.html",
-    "revision": "4b2391037ddc5fa895c2be34cc10b429"
+    "revision": "c780d2d516d366899b3076bb46ba9eff"
   },
   {
     "url": "frontend/js/防抖、节流和RAF.html",
-    "revision": "c4fc1ce3058e5a53dcc69466e1224edf"
+    "revision": "0cb83f1f31a5edea08b42a76bc2bbd2b"
   },
   {
     "url": "guide/index.html",
-    "revision": "1d38e32eb4f2099f0c0f2c6115aef34e"
+    "revision": "c033f92694e0ce5f337fad5e46c18434"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -235,11 +235,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "9d823221aff56883971812895c90c5ec"
+    "revision": "95849729a5fad0ee507f3fcda6717b2c"
   },
   {
     "url": "other/philosophy/index.html",
-    "revision": "b1a99c794c21a21fb670b65c18b90972"
+    "revision": "fa1777bf4f19d9459097a6f79f329196"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
