@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "07d62c8b99aa1374c36ff5333924344c"
+    "revision": "614e222040921fa54edcf81fc1471bd8"
   },
   {
     "url": "about/index.html",
-    "revision": "80abb052dc83b7ed2db40a55f72f5a2c"
+    "revision": "c7ac2ac988bc0e4e3432d08dfce8f543"
   },
   {
     "url": "assets/css/0.styles.c14b62c2.css",
@@ -102,8 +102,8 @@ self.__precacheManifest = [
     "revision": "c4406bd4e1a461d2b12b1ae7b8cc667d"
   },
   {
-    "url": "assets/js/24.21ad4b7b.js",
-    "revision": "ef289de35a927adf05e6e8e245247de1"
+    "url": "assets/js/24.8df6d003.js",
+    "revision": "fd53b98ba273dd42a6af4f816d2fa5a8"
   },
   {
     "url": "assets/js/25.ae55b752.js",
@@ -150,76 +150,76 @@ self.__precacheManifest = [
     "revision": "2875c125d7d4ac0f055aa76e9cb83eaa"
   },
   {
-    "url": "assets/js/app.e5306d19.js",
-    "revision": "af5d62432fe34203ecf3db2ec52e517c"
+    "url": "assets/js/app.befcf5ae.js",
+    "revision": "780262fe8c15810b3120274d0fc48d95"
   },
   {
     "url": "basic/algorithm/index.html",
-    "revision": "0133b33c1fd6eea4d86c4b97cbb5ace2"
+    "revision": "e3776ec2e5fd867cb1e7047506aa90ee"
   },
   {
     "url": "basic/git/An annoying pitfall about Git.html",
-    "revision": "c267d4b515c5b4cbdb07365d07ba7f69"
+    "revision": "dce2a31e153529d9785bf3c4856a6865"
   },
   {
     "url": "basic/git/index.html",
-    "revision": "77a07f817408b592b7843620555448f6"
+    "revision": "8c981a5e5968cae7fb7639f56d230a43"
   },
   {
     "url": "basic/network/index.html",
-    "revision": "403659788b7e9c88a55fef84dc4d4665"
+    "revision": "c1f9093f841c2de2fa7bfe0b8983be75"
   },
   {
     "url": "basic/network/JavaScript基础知识.html",
-    "revision": "13173018e85f46dd97ee5eb80afb6975"
+    "revision": "68f2a90a9dcec0f13a23bda4125875ca"
   },
   {
     "url": "frontend/css/index.html",
-    "revision": "0d7e3e403c3f1f0c522b717e45080599"
+    "revision": "a74bfa52deae5713e2b2995dd478af39"
   },
   {
     "url": "frontend/css/P129-P161.html",
-    "revision": "24d6c3d571255875e4935cfc4467d9fd"
+    "revision": "8ee4b87064ac8c3f1264b6323ab90bf5"
   },
   {
     "url": "frontend/css/P165-P188.html",
-    "revision": "58be3521a9f3dd5eb231dc9925597738"
+    "revision": "b2e368a04b5cbecad6d9ea077e37c381"
   },
   {
     "url": "frontend/css/P222-P250.html",
-    "revision": "345b3079cb09f77be6fa60ee62f81ac4"
+    "revision": "10c897c975a596cb76fa3a84c84cc366"
   },
   {
     "url": "frontend/css/P275-.html",
-    "revision": "8da46067dd77c646cafc724773712dc8"
+    "revision": "92bfb02b5f8f444fd975d48fe6c84d38"
   },
   {
     "url": "frontend/html/index.html",
-    "revision": "38a30036301c9b2e1f763c7b44503d12"
+    "revision": "71de97352a4a08999eee61c144869079"
   },
   {
     "url": "frontend/js/'this'的指向.html",
-    "revision": "9d7bbe3321f2011b2047f6893ae9da2c"
+    "revision": "56f55824288f0ee61379a40f0bba4773"
   },
   {
     "url": "frontend/js/index.html",
-    "revision": "5345c6467dbe2334c0431f304c968ec1"
+    "revision": "a679b2be9906011bf9f01fe67cc8e77f"
   },
   {
     "url": "frontend/js/JS习题册.html",
-    "revision": "84882466fd3341a070391f8fd81cc91a"
+    "revision": "542f74f0a921081a07494da26b2b6088"
   },
   {
     "url": "frontend/js/JS习题册答案.html",
-    "revision": "314dd44174007b095d13333f1e454f11"
+    "revision": "68e3744ba4db2e89cb5044239797be37"
   },
   {
     "url": "frontend/js/防抖、节流和RAF.html",
-    "revision": "dd7d9d7d96575240746b7f97999d0ff6"
+    "revision": "2c371d294ebc630981ee2259d97bd7d2"
   },
   {
     "url": "guide/index.html",
-    "revision": "51e9c62b26a5f1c31de6b4eab34ad73f"
+    "revision": "7e9a5f7e60e14778e063bbbc7da9d110"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -243,11 +243,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "00b9578f12b63e11afc58b66534c6b5d"
+    "revision": "01e3c3d8f01e2acd2bf68000632761df"
   },
   {
     "url": "other/philosophy/index.html",
-    "revision": "e391791d3fdb229586cbcdc4559e9c17"
+    "revision": "54b2b220affaf35fcb306ef2180a409e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
