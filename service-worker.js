@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "aed1d6499d9b667267789e10bbb7b2d3"
+    "revision": "41d0b16d01c2b31e6fe55037dc403272"
   },
   {
     "url": "about/index.html",
-    "revision": "379ac4a32aefe90a7da3c7bc68bd2c67"
+    "revision": "bafa563c7adc7358cd30b4f5fd3ee441"
   },
   {
     "url": "assets/css/0.styles.c14b62c2.css",
@@ -154,80 +154,80 @@ self.__precacheManifest = [
     "revision": "2875c125d7d4ac0f055aa76e9cb83eaa"
   },
   {
-    "url": "assets/js/app.d763d452.js",
-    "revision": "47e0e773af95041bc65de92c827db2e7"
+    "url": "assets/js/app.86e7110e.js",
+    "revision": "1a7a77157f78a013bc332ed7ebefcdc2"
   },
   {
     "url": "basic/algorithm/index.html",
-    "revision": "d5c2e85ff462444cd0d8b77db5605477"
+    "revision": "d6616f5db01a083f632459ad9b48820f"
   },
   {
     "url": "basic/git/An annoying pitfall about Git.html",
-    "revision": "a8cebae90f93d0d524796429472eed8c"
+    "revision": "353044b30835ec9fed7ccf4fa6e2f1ba"
   },
   {
     "url": "basic/git/index.html",
-    "revision": "98a49593836a2f963a54eb13fd7b925d"
+    "revision": "d0a639111e4c7fe3483c681b06b04e2e"
   },
   {
     "url": "basic/network/index.html",
-    "revision": "61ba39a7a687ef3e259a79adb6937635"
+    "revision": "b8fd28f6e3756996d73214920a4ff70c"
   },
   {
     "url": "basic/other/index.html",
-    "revision": "c35fb5596575298d591072a2bc60248b"
+    "revision": "a257479c0f4a62ce6a5a8684f3821817"
   },
   {
     "url": "basic/other/字符与编码.html",
-    "revision": "8da775aea6874988f794468c2e0bd277"
+    "revision": "3b0ed21230044297203404adc28aa05f"
   },
   {
     "url": "frontend/css/index.html",
-    "revision": "a943ef0f31a56b87b97433215a86417b"
+    "revision": "567fcc2cd9043ed482ff72a70b930ae6"
   },
   {
     "url": "frontend/css/P129-P161.html",
-    "revision": "b96c8e8495dac0b7b7e29ef9a0a33fca"
+    "revision": "32493e27366e7f6cbc07e93bed9701ed"
   },
   {
     "url": "frontend/css/P165-P188.html",
-    "revision": "881ef9fab9751540d9def6963e207b53"
+    "revision": "a4db85efdc675ec8b72c363d70a62d7e"
   },
   {
     "url": "frontend/css/P222-P250.html",
-    "revision": "bef40b948e0b0fe0b67341fd83e8a085"
+    "revision": "da765fede3e0b7972af5020d39fd0098"
   },
   {
     "url": "frontend/css/P275-.html",
-    "revision": "b09c9713b3d17e00e47192a793f3424c"
+    "revision": "88abf35d4265e02ca7edd1425ff62f1c"
   },
   {
     "url": "frontend/html/index.html",
-    "revision": "ee040ff4e8f5c928b998cbfd9d860177"
+    "revision": "5db6a8a94fecec01790630e89f1eed2e"
   },
   {
     "url": "frontend/js/'this'的指向.html",
-    "revision": "e22b8f4bef2d8215692872ad7345c8fe"
+    "revision": "8769a9ab4a384e266a6db441fb0c653c"
   },
   {
     "url": "frontend/js/index.html",
-    "revision": "13ca764fdf865dd53b4b203b36173290"
+    "revision": "502b2c95a63c036e82df6c78d9866cc1"
   },
   {
     "url": "frontend/js/JS习题册.html",
-    "revision": "e77f48307b252dc44f07526ea12c0954"
+    "revision": "953e97c69a7728932fd988d9ba5dfc55"
   },
   {
     "url": "frontend/js/JS习题册答案.html",
-    "revision": "0cff94586832365ef196b3c9d494af92"
+    "revision": "d1c0a8a6af0e6cf92c82ba490dab1094"
   },
   {
     "url": "frontend/js/防抖、节流和RAF.html",
-    "revision": "ac1ffaaa5b779be1f200d9ef1e4268a3"
+    "revision": "4be560b4bc0117a2371a792d5fd508dd"
   },
   {
     "url": "guide/index.html",
-    "revision": "2c5934d80f9b56a68379b52d69b3036b"
+    "revision": "0e7aedeb420b918de3230f8bd64c92a9"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -251,11 +251,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "36fe271fdb68816a694b77989a24f2de"
+    "revision": "ddcccca21bc2c6a28295cd06159baca2"
   },
   {
     "url": "other/philosophy/index.html",
-    "revision": "71fad7f022231679ee3bfd224aa65f00"
+    "revision": "ace8e904b2280038a509e8f271db99d7"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
