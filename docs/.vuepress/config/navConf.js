@@ -2,7 +2,7 @@ module.exports = [
     { text: '目录', link: '/guide/', target: '_self' },
     {
         text: '前端',
-        ariaLabel: '',
+        ariaLabel: '前端三剑客',
         items: [
             { text: 'JavaScript', link: '/frontend/js/', target: '_self' },
             { text: 'CSS', link: '/frontend/css/', target: '_self' },
@@ -13,8 +13,9 @@ module.exports = [
         text: '计算机',
         ariaLabel: '计算机基础',
         items: [
-            { text: '算法', link: '/basic/algorithm/', target: '_self' },
             { text: '计网', link: '/basic/network/', target: '_self' },
+            { text: '算法', link: '/basic/algorithm/', target: '_self' },
+            { text: '其他', link: '/basic/other/', target: '_self' },
             { text: 'Git', link: '/basic/git/', target: '_self' },
         ],
     },
