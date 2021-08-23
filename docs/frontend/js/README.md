@@ -102,3 +102,40 @@ str[0] = 'h' //error
 "stringify".slice(1,3) //tr，获取子字符串，左闭右开
 ```
 
+------
+
+`symbol`用于表示唯一的标识符，通过`Symbol()`函数创建
+
+```js
+let id1 = Symbol("id") //可以为每个symbol设置description属性
+let id2 = Symbol("id")
+id1 === id2 //false，每个symbol被创建后就是独一无二的
+```
+
+可以使用`symbol`创建不会被第三方访问的**隐藏属性**
+
+```js
+const obj = {name:"gxy"}
+let age = Symbol("age")
+obj[age] = 20 //使用Symbol作属性区别于使用字符串
+```
+
+这样创建的属性很难被访问到：
+
+![image-20210823171553081](http://img.gxyhero.top/img/202108231716422.png)
+
+也不会在`for...in`循环中被遍历到：
+
+![image-20210823172311799](http://img.gxyhero.top/img/202108231723827.png)
+
+JavaScript中也内置了许多系统Symbol，如常见的`Symbol.iterator`和`Symbol.toPrimitive`
+
+从技术上Symbol 不是 100% 隐藏的。可以通过以下两种方式访问到
+
+```js
+Object.getOwnPropertySymbols(obj)
+Reflect.ownKeys(obj)
+```
+
+![image-20210823174724062](http://img.gxyhero.top/img/202108231747095.png)
+
