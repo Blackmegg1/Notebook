@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a19cdfd9228a12e22b00a51d36b67100"
+    "revision": "6be19539f32aa3cbfeed74e7c006c6f9"
   },
   {
     "url": "about/index.html",
-    "revision": "91b542a18519d0cefb1ff7f6afd079d2"
+    "revision": "c0598c713216bbea96b06914c95ea4ed"
   },
   {
     "url": "assets/css/0.styles.c14b62c2.css",
@@ -42,8 +42,8 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.690e1b82.js",
-    "revision": "762d1c73e3b34c689e36457e5167a85a"
+    "url": "assets/js/10.ea1077f3.js",
+    "revision": "99840a3e041f5ea33c7cfa4b70104eb3"
   },
   {
     "url": "assets/js/11.12a41abe.js",
@@ -114,8 +114,8 @@ self.__precacheManifest = [
     "revision": "e869349e8dad3b013077c0cd819fce11"
   },
   {
-    "url": "assets/js/27.689f5f50.js",
-    "revision": "2c47c103665826f364d78ccf3270e4a2"
+    "url": "assets/js/27.c63d59b1.js",
+    "revision": "78e56835891fbd3359f74aa2c1708aee"
   },
   {
     "url": "assets/js/28.a9fb6234.js",
@@ -154,80 +154,80 @@ self.__precacheManifest = [
     "revision": "2875c125d7d4ac0f055aa76e9cb83eaa"
   },
   {
-    "url": "assets/js/app.fc284d51.js",
-    "revision": "4cbeecf38812c84c33c290d9d0772da7"
+    "url": "assets/js/app.698492e0.js",
+    "revision": "81125d9ff29f4148d1b6399f7aa39680"
   },
   {
     "url": "basic/algorithm/index.html",
-    "revision": "29c090b7ca0379f1681217c5b58cc517"
+    "revision": "8e333abb93545236133ea0638d4741ce"
   },
   {
     "url": "basic/git/An annoying pitfall about Git.html",
-    "revision": "c588fbfc8cfaf866a9b17a023d7721c9"
+    "revision": "8a26fa4fd688fe8ccbd95e124a85473e"
   },
   {
     "url": "basic/git/index.html",
-    "revision": "68f324ca13089c1cdf1b5a2d299d4dae"
+    "revision": "5e66a7605ae990e746f8ca82570aafc1"
   },
   {
     "url": "basic/network/index.html",
-    "revision": "71e2d9c7538f2ee11eb44dd1cca15492"
+    "revision": "a7d4d0f748ea6800026e5b6018c68ee6"
   },
   {
     "url": "basic/other/index.html",
-    "revision": "57b006d72dfc9090eada913fd6c2355b"
+    "revision": "21df2713199bbb97faec0440d38ffd9c"
   },
   {
     "url": "basic/other/字符与编码.html",
-    "revision": "9a642e8e2f199865899d1b817198e2ea"
+    "revision": "40090be7574e397178a504167339abb8"
   },
   {
     "url": "frontend/css/index.html",
-    "revision": "12e0f98a9ca598475f7a3d21f9bf4859"
+    "revision": "74a3e3fd24bba80557ef3494281874fc"
   },
   {
     "url": "frontend/css/P129-P161.html",
-    "revision": "4a396112eab51e50d2accc2d3d933e9b"
+    "revision": "d1f15a250a82197ae7a4c553fda9077e"
   },
   {
     "url": "frontend/css/P165-P188.html",
-    "revision": "4d443e41dbf5fa5024763cba3191e689"
+    "revision": "a02872276b96a496343fec84439abcf3"
   },
   {
     "url": "frontend/css/P222-P250.html",
-    "revision": "7b406ac2737265dc6e54e50ea7cdd881"
+    "revision": "b4cb0a1a042c9b8a9b4232829d8f73a4"
   },
   {
     "url": "frontend/css/P275-.html",
-    "revision": "e1903547d2e86997e97d00e3054cbc0a"
+    "revision": "44600982fc8a80cad32ee9fe2bdc458e"
   },
   {
     "url": "frontend/html/index.html",
-    "revision": "0735ae6edf1c31faf271fd7f10788998"
+    "revision": "658deae90a24bb307726ab31e0aba6f9"
   },
   {
     "url": "frontend/js/'this'的指向.html",
-    "revision": "ad6e96f6546fbe1f5d7a61ea48394bfd"
+    "revision": "1bbcaae2f845708659460ad6042faa94"
   },
   {
     "url": "frontend/js/index.html",
-    "revision": "8d958b09657e1307bafaea1dc67c991e"
+    "revision": "090e3dc31a81074a28b8da0981587d12"
   },
   {
     "url": "frontend/js/JS习题册.html",
-    "revision": "9ced96af31d4fec9dd11f923a4f77c8e"
+    "revision": "1037acd24946fb90225bf060923fdac8"
   },
   {
     "url": "frontend/js/JS习题册答案.html",
-    "revision": "fea2c1930bedfdcf036f243b8e207e41"
+    "revision": "ccacf60dd6a466b48ce3ac2b5eae2187"
   },
   {
     "url": "frontend/js/防抖、节流和RAF.html",
-    "revision": "8c55dc760f44e0580817ae38d44fa0ce"
+    "revision": "6cdbe9621bd70c8f111599a684e9c7bb"
   },
   {
     "url": "guide/index.html",
-    "revision": "eedae629d665ab0c625f6150d8468c6f"
+    "revision": "65ea82138d899b22fdf34d0bae6918f1"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -251,11 +251,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5e04894915d952acca6345f0ad838d8d"
+    "revision": "4befe6984115dfe71144336519185c4c"
   },
   {
     "url": "other/philosophy/index.html",
-    "revision": "794797b3332e58ac33b1fd923a268571"
+    "revision": "26dbf8cc4f967244dec77773fe0140ad"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
