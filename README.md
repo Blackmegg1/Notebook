@@ -13,7 +13,7 @@
 ## 搭建过程：
 
 1. 使用vuepress完成本地搭建
-2. 上传至github-page并绑定自己的域名（http://notebook.gxyhero.top）
+2. 上传至github-page并绑定自己的域名 http://notebook.gxyhero.top
 3. 配置travis-ci实现自动化部署
 4. picgo+oss搭建图床
 
